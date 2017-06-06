@@ -1,0 +1,19 @@
+{
+  "name": "nico-landscape",
+  "version": "1.0.0",
+  "description": "# Local business in Livermore, CA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcontreras18/nico-landscape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fcontreras18/nico-landscape/issues"
+  },
+  "homepage": "https://github.com/fcontreras18/nico-landscape#readme"
+}
